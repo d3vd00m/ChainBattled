@@ -1,4 +1,5 @@
-## Dinamic NFTs with On-Chain Metadata representing a character in a game
+## Dinamic NFTs with On-Chain Metadata
+Here we create the basics of a blockchain game by develop a fully dynamic NFT with on-chain metadata that changes based on your interactions with it, and deploy it on Polygon Mumbai to lower gas fees. 
 
 ### Interact with the Smart Contract Through Polygon Scan here:
 
